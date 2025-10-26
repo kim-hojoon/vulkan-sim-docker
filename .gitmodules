@@ -1,0 +1,14 @@
+[submodule "RayTracingInVulkan"]
+	path = RayTracingInVulkan
+	url = https://github.com/ubc-aamodt-group/RayTracingInVulkan.git
+	branch = master
+
+[submodule "mesa-vulkan-sim"]
+	path = mesa-vulkan-sim
+	url = https://github.com/ubc-aamodt-group/mesa-vulkan-sim
+	branch = main
+
+[submodule "vulkan-sim"]
+	path = vulkan-sim
+	url = https://github.com/ubc-aamodt-group/vulkan-sim
+	branch = main
